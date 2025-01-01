@@ -1,0 +1,18 @@
+
+h1{
+    color: red;
+    background-color: greenyellow;
+    text-decoration: underline;
+}
+button{
+    color: gold;
+    background-color: black;
+}
+h1{
+    text-align: center;
+
+}
+p{
+    font-weight:bold;
+    line-height:2.5;
+}
